@@ -1,6 +1,6 @@
 ---
 name: Issue Report
-about: 'Create a report to help us improve Unity: Dark.'
+about: 'Create a report to help us improve Unity: PBR.'
 title: "[1.X.X] Issue Description"
 labels: ''
 assignees: ''
