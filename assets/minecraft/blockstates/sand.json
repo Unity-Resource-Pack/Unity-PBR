@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/sand", "weight": 10 },
+            { "model": "unity:block/sand_light", "weight": 4 },
+            { "model": "unity:block/sand_dark", "weight": 1 },
+            { "model": "unity:block/sand_rocks", "weight": 1 }
+        ]
+    }
+}
